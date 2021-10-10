@@ -1,15 +1,35 @@
-## Welcome to my only Page
+## Welcome to My Page
 
 You can use the [editor on GitHub](https://github.com/pjournal/gh-pages-template/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Myself
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm graduated from Yildiz Technical University, Mechanical Engineering Faculty. And I've been working as System Development Engineer since October 2020. 
 
-```markdown
-Syntax highlighted code block
+### Process Mining With R 
+
+Process Mining is a technique, which used to discover, monitor and improve processes. Process Mining uses event logs and business system data instead of outdated documents, meeting notes or interviews. With this model we can form performance indicators and any other metrics. 
+
+### Tooling
+
+There are many tools to perform Process Mining. BupaR is one of them. BupaR is an open source tool written on R. BupaR have been developed by the Business Informatics research group of Hasselt University, and are maintained by Gert Janssenswillen. 
+
+By clicking on the link below, you can see the operation chart of BupaR.
+
+https://www.bupar.net/images/workflow.PNG
+
+### BPI Challenge 2017
+
+BPI Challenge is a content organized by International Workshop on Business Process Intelligence (BPIG). They provide real data from real business cases. The goal is solving business problems with Process Mining.
+
+In this article you can read along or try to follow a case used in BPI challenge.
+
+https://medium.com/process-mining-and-analytics/process-mining-in-10-minutes-with-r-1ab28ed74e81
+
+
+
 
 # Header 1
 ## Header 2
